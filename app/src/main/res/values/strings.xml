@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Carte de sécurité</string>
+    <string name="title_Map">Home</string>
+    <string name="title_Links">QuickLinks</string>
+    <string name="title_Report">Notifications</string>
+</resources>
